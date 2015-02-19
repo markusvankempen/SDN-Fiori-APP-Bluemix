@@ -1,19 +1,18 @@
 SAPUI5-Fiori
 ============
-
 This is an example Fiori App test app on Bluemix.
-
 ToDos
 ------
 ... lots
-
 Modified by [Markus](mailto:mvk@ca.ibm.com)
 
 Contact
 --------
-Infos: https://markusvankempen.wordpress.com/
-Twitter: https://twitter.com/markusvankempen
-Email: mvk@ca.ibm.com
+- Infos: <https://markusvankempen.wordpress.com>
+- Twitter: <https://twitter.com/markusvankempen>
+- github: <https://github.com/markusvankempen>
+- jazzhib: <https://hub.jazz.net/user/mvk>
+- Email: mvk@ca.ibm.com
 
 More Information
 ------------------
