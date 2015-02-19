@@ -4,7 +4,8 @@ This is an example Fiori App test app on Bluemix.
 ToDos
 ------
 ... lots
-Modified by [Markus](mailto:mvk@ca.ibm.com)
+
+-Modified by [Markus](mailto:mvk@ca.ibm.com)
 
 Contact
 --------
